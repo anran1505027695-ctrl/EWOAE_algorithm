@@ -1,13 +1,13 @@
 # EWOAE Algorithm
 
 This repository provides the core algorithm implementation of the
-Enhanced Water Occurrence–Elevation (EWOAE) method proposed in the paper.
+Elevation and  Water Occurrence–based (EWOAE) algorithm proposed in the paper.
 
 The code is intended to illustrate the main algorithmic workflow and
 decision logic, rather than to serve as a fully automated software package.
 
 ## Contents
-- `EWOAE_algorithm.js`: Core algorithm file implementing the EWOAE method
+- `EWOAE_algorithm.js`: Core algorithm file implementing the EWOAE Algorithm
 
 ## Notes
 - The code demonstrates the key computational steps of the algorithm.
